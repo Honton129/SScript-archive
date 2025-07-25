@@ -4,21 +4,11 @@
 
 # SScript
 
-SScript is an easy to use Haxe script tool that aims to be simple while supporting all Haxe structures.
-
-## Contribution
-If you have an issue with SScript or have a suggestion, you can always open an issue here. However, pull requests are NOT welcome and will be ignored.
+SScript was an easy to use Haxe script tool that aims to be simple while supporting all Haxe structures.
+This repository only serves as an archive of the library (for now only version 7.7.0, which was used in FNF' Psych Engine).
 
 ## Installation
-`haxelib install SScript`
-
-Enter this command in command prompt to get the latest release from Haxe library.
-
-
-`haxelib git SScript https://github.com/TahirKarabekiroglu/SScript.git`
-
-Enter this command in command prompt to get the latest git release from Github. 
-Git releases have the latest features but they are unstable and can cause problems.
+`haxelib git SScript-archive https://github.com/Honton129/SScript-archive.git`
 
 After installing SScript, don't forget to add it to your Haxe project.
 
@@ -166,3 +156,9 @@ class PlayState extends flixel.FlxState
 	}
 }
 ```
+
+# Credits
+
+- Tahir Karabekir (Creator of SScript).
+- Honton129 (Creator of the archive).
+- Tomori / kangleuwu (Updater Fix). 
