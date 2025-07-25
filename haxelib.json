@@ -1,0 +1,12 @@
+{
+  "name": "SScript-archive",
+  "url": "https://github.com/Honton129/SScript-archive",
+  "license": "Apache",
+  "tags": ["hscript", "sscript", "archive"],
+  "description": "An archive of SScript 7.7.0, an easy-to-use Haxe Script tool for all targets made originally by tahirk786.",
+  "version": "7.7.0",
+  "classPath": "src/",
+  "releasenote": "SScript 7.7.0 Archive",
+  "contributors": ["tahirk786", "Honton129", "kangeluwu"],
+  "dependencies": {}
+}
