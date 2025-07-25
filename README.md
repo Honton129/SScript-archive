@@ -162,3 +162,4 @@ class PlayState extends flixel.FlxState
 - Tahir Karabekir (Creator of SScript).
 - Honton129 (Creator of the archive).
 - Tomori / kangleuwu (Updater Fix). 
+- SScript-Guy (Creator of the examples at https://github.com/SScript-Guy/SScript-new).
