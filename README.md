@@ -5,6 +5,7 @@
 # SScript
 
 SScript was an easy to use Haxe script tool that aims to be simple while supporting all Haxe structures.
+
 This repository only serves as an archive of the library (for now only version 7.7.0, which was used in FNF' Psych Engine).
 
 ## Installation
